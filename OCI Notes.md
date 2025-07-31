@@ -1,0 +1,146 @@
+Instructor: Rohit Rahi, Sr Director OCI Global Delivery 
+
+- Region
+	- Availability Domains
+		- Fault Domains
+
+- OCI IAM
+	- AuthZ - Who are you?
+	- AuthN - What can you do?
+	- Identity Domains
+		- Containers for users & groups with Policies
+	- Policies define Permissions
+		- Can be attached to compartments or tenancies
+		- Human-readable code with domains, verbs, resources, locations, conditions, etc.
+	- Oracle Cloud ID (OCID) Assigned to resources 
+	- Tenancy: Account
+		- Tenancy Admin: Whole Account
+		- OCI Admin: Manage specific group(s)
+	- Principals
+		- IAM Identities allowed to interact with OCI resources: IAM Users or Resource Principals
+- Compartments
+	- Used to group, isolate, and permission resources. 
+	- Resources can interact with those in other compartments, and be transferred them. 
+	- Region-Agnostic, Six levels of nesting, Quotas & Budgets 
+- Virtual Cloud Network (VCN)
+	- [[Virtual Private Cloud (VPC)]] 
+	- Address space with [[Classless Inter-Domain Routing (CIDR)|CIDR]] addressed [[Subnet]]s
+	- Internet Gateway for accessing public internet
+	- NAT Gateway to provide NAT as a service for one direction outbound communication
+	- Service Gateway for resources to access OCI Resources/Services securely 
+	- Dynamic Routing Gateway for securely connecting VCN and On-Prem environment. 
+	- Route Table: Set of rules for connecting CIDR Block and Rout Target 
+		- Longest Prefix Match: Most Specific destination takes priority 
+		- Network Peering
+			- Local Peering Gateway in the same Region
+			- Remote Peering with Dynamic Routing Gateway between regions 
+				- DRG v2 Can connect up to 300 VCNs. 
+	- Security List
+		- Firewall Rules applied to a Subnet: Either Stateful or Stateless 
+	- Network Security Groups 
+		- Only apply to a set of Virtual Network Interface Cards (VNIC) in a VCN
+	- Load Balancer
+		- Reverse Proxy 
+		- Provides High Availability and scalability
+		- Layer 7 [[OSI Model]] 
+	- Network Load Balaner
+		- OSI Layer 3/4 
+- OCI Compute
+	- Bare Metal and VMs for shared machines, Dedicated Host for fully personal
+	- Flexible Shapes *OCPUs an Memory are flexible* as opposed to "T-Shirt Sizing"
+	- Both AMD, Intel, and Ampere
+	- Preemptible VMs
+	- Instances
+		- A compute Host with VNIC within a subnet
+		- Boot Disk & Data in a block volume
+		- Transparent Live Migration between hosts without rebooting
+		- OCI Cloud Shell 
+	- Scaling
+		- Vertical - Change Instance Shape with downtime
+		- Horizontal - Autoscaling 
+			- Instance config
+			- Instance Pool - Operate as one unit
+				- Scaling Rules with limits 
+	- OKE - OCI Managed Kubernetes
+		- VMs Have Hypervisor, run with OS 
+		- Containers only run library / dependencies 
+		- [[Kubernetes (K8s)|Kubernetes]]
+	- OCI Container Instances
+		- Managed Docker / Container Service
+	- Oracle Functions
+		- Serverless Compute (like AWS Lambda) 
+		- Consumption based pricing 
+- Storage
+	- Local NVMe - Locally attached VM Storage
+	- Block Volume - Partitioned
+		- Persistent and Durable storage to a compute instance
+		- Tiers based on I/O: Lower, Balanced, High Performance, Ultra High - Auto Scaling available 
+		- Read/Write Sharable - share volume between instances
+		- Scale volume size
+		- Volume Groups for time consistent backups across volume 
+	- File Storage - Shared Across instances
+		- Hierarchical Collections - NFS and SMB
+		- Example Uses
+			- Oracles Applications
+			- Microservices and Containers
+		- 
+	- Object Storage - Objects accessed via web
+		- Unstructured Data, Regional, Public or Private 
+		- Object Name:Value w/ Metadata
+		- Namesppace
+		- Bucket: Flat Structure with Prefixes for simulated heirarchy
+		- Tiers
+			- Standard / Hot
+			- Infrequent Acces / Cool - Cheaper, But limitations
+			- Archival / Cold - Longterm
+			- Auto-Tiering - Auto-pricing based on traffic 
+			- Lifecycle management and versioning and encryption
+			- Accessed by HTTP API
+	- Migration Services
+		- Data Transfer Disk
+		- Data Transfer Appliance 
+- Security
+	- Shared Security Model: Some Security is Admin Responsibility, some is Oracle's Responsibility 
+	- Security Stack Top to Bottom
+		- Detection and Remediation
+		- Data
+		- OS and Workload - VM/Instance
+		- IAM - User
+		- Protection - Infra
+	- Cloud Guard
+		- Target (Resource), Detectors, Problems, Responders
+		- Security as Code (SaC)
+		- Required for Security Zones Applied to Compartment. Policies on SZ Recipes 
+		- Security Advisor
+		- Configures Security Zone, Cloud Guard, Other Security Services
+	- Encryption
+		- [[Symmetric Encryption]] AES
+		- [[Asymmetric Encryption]] RSA
+		- [[Hardware Security Module (HSM)]] Physical Device for managing keys and providing cryptographic functions
+		- Vault (OCI)
+			- Manages Secrets
+			- Software Protection vs HSM Protection
+			- Envelop Encryption - Master Key > Data Key
+				- Allows for rotation and distribution of data keys without full re-encryption of data
+- Administration
+	- Pricing
+		- Pay as you Go
+			- Consumption Based
+			- Annual Universal Credits
+			- Monthly Universal
+			- Bring Your Own License 
+			- Factors: Size, Data Transfer (Incoming traffic free), Resource Type, etc
+			- Same Around the World
+		- Cost Management
+			- Budgets
+				- Thresholds and Alerts
+			- Cost Analysis
+			- Service Limits and Usage
+			- Compartment Quotas
+		- Cloud Advisor: Analyzes resources and provides recommendations for cost, performance, HA, and security
+		- Tagging: KV Pairs on resources for organization, cost management, access control
+			- Freeform Tags: Any KV Pair
+			- Defined Tags: Contained within namespace with a define schema a limited by policies 
+		- Support Rewards
+			- The more customers use OCI the less they pay for on-prem licenses and support costs 
+		- 

@@ -1,0 +1,9 @@
+{
+  "autoUpdate": true,
+  "changelogPath": "system/changelog.md",
+  "datetimeFormat": "YYYY-MM-DD[T]HHmm",
+  "maxRecentFiles": 150,
+  "excludedFolders": [
+    "private/"
+  ]
+}

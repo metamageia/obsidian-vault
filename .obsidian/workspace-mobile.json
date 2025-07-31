@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a205db3283b5575a",
+    "type": "split",
+    "children": [
+      {
+        "id": "11525f3849428723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ad5bcafdcda45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "994d821acd410187",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5113dc1b0885995",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "c76aa04b55009d91",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Doctl",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "64a054192f3c66fb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "38db27a7d067c139",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "a56a33ff8d387581",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a79e309f6b9a4ac1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "425c4f249b8b360f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "daily/2025-07-12.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca226a4574ff5df7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e993657d2294810a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "97ad5bcafdcda45b",
+  "lastOpenFiles": [
+    "system/changelog.sync-conflict-20250731-133229-27P4DZL.md",
+    "system/changelog.sync-conflict-20250731-133129-27P4DZL.md",
+    "daily/2025-07-31.md",
+    "private/Projects.md",
+    "daily/2025-07-30.md",
+    "daily/2025-07-28.md",
+    "private/List.md",
+    "system/changelog.sync-conflict-20250728-122644-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-031442-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-031352-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-031332-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-031212-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-031012-4PRXCDI.md",
+    "system/changelog.sync-conflict-20250728-030902-4PRXCDI.md",
+    "private/Untitled Kanban.md",
+    "private/Auriga.md",
+    "daily/2025-07-23.md",
+    "daily/2025-07-21.md",
+    "system/changelog.sync-conflict-20250721-131644-27P4DZL.md",
+    "daily/2025-07-16.md",
+    "daily/2025-07-17.md",
+    "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/index.md",
+    "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/fuzzel.png",
+    "daily/2025-07-15.md",
+    "daily/2025-07-13.md",
+    "daily/2025-07-12.md",
+    "daily/2025-07-11.md",
+    "TTRPGs/The-Great-Galactic-Hunt/World/Civilizations",
+    "TTRPGs/The-Great-Galactic-Hunt/World/Characters",
+    "TTRPGs/The-Great-Galactic-Hunt/World/Sessions",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/github-actions.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Final-Website.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Repository Secrets.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Create Repo from Template.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Example-Vault.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Github-Pages.png",
+    "TTRPGs/The-Great-Galactic-Hunt/World/Images/Ivan Kurnivov.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/PAT.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/default-site.png",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images",
+    "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions",
+    "metamageia/articles",
+    "TTRPGs/The-Great-Galactic-Hunt/World/Images",
+    "system/templates/template.ttrpg.trespasser.characterSheet.canvas",
+    "changelog",
+    "metamageia/Trespasser Solo Design/Procedures.canvas",
+    "system/templates/template.ttrpg.trespasser.havenSheet.canvas",
+    "system/assets",
+    "system/templates"
+  ]
+}
