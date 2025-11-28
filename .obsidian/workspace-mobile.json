@@ -11,10 +11,14 @@
             "id": "97ad5bcafdcda45b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "private/Inbox.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Inbox"
             }
           },
           {
