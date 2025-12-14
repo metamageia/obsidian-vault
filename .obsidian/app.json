@@ -2,5 +2,11 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "system/assets",
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
