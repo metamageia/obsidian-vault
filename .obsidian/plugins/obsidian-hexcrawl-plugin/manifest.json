@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-hexcrawl-plugin",
+  "name": "Obsidian Hexcrawl Plugin",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin to create infinite canvas hexmaps for TTRPGs and play hexcrawls in Obsidian.",
+  "author": "Metamagia aka Gage Lara",
+  "main": "main.js",
+  "css": "styles.css"
+}
