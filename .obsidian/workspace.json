@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Inbox.md",
+                "file": "system/templates/templates.hugo.daily.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "templates.hugo.daily"
+            }
+          },
+          {
+            "id": "28e594482ae9a188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-12-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "2025-12-28"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,44 +189,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "878f26c40b95be22",
+  "active": "28e594482ae9a188",
   "lastOpenFiles": [
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
+    "daily/2025-12-21.md",
     "daily/2025-12-28.md",
+    "daily/2025-12-27.md",
+    "daily/2025-12-26.md",
+    "daily/2025-12-25.md",
+    "daily/2025-12-24.md",
+    "daily/2025-12-23.md",
+    "daily/2025-12-22.md",
+    "daily/2025-12-16.md",
+    "daily/2025-12-20.md",
+    "daily/2025-12-19.md",
+    "daily/2025-12-18.md",
+    "daily/2025-12-17.md",
+    "daily/2025-12-14.md",
+    "daily/2025-12-15.md",
+    "daily/2025-12-09.md",
+    "daily/2025-12-13.md",
+    "daily/2025-12-12.md",
+    "daily/2025-12-11.md",
+    "daily/2025-12-10.md",
+    "daily/2025-12-02.md",
+    "daily/2025-12-07.md",
+    "daily/2025-12-06.md",
+    "daily/2025-12-04.md",
+    "daily/2025-11-30.md",
+    "daily/2025-11-29.md",
+    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Trespasser Rulebook v2.0.3.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Commoner Tracker v2.0.3.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Commoner Record.pdf",
-    "private/Inbox.md",
-    "private/Bingo.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Echoing Cistern.pdf",
     "private/IMG_20251226_130815.png",
-    "private/Untitled.md",
-    "daily/2025-12-27.md",
-    "daily/2025-12-22.md",
-    "daily/2025-12-21.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Table Reference.pdf",
     "projects/tabletop/MOSAIC Strict/MOSAIC Playbooks/Dark Fantasy Playbook for MOSAIC Strict/Dark Fantasy Character Playbook for Mosaic Strict Trifold_autosave_21_12_2025_18_10.sla",
     "projects/tabletop/MOSAIC Strict/MOSAIC Playbooks/Dark Fantasy Playbook for MOSAIC Strict/Dark Fantasy Character Playbook for Mosaic Strict Trifold_autosave_21_12_2025_18_00.sla",
     "projects/tabletop/MOSAIC Strict/MOSAIC Playbooks/Dark Fantasy Playbook for MOSAIC Strict/Dark Fantasy Character Playbook for Mosaic Strict Trifold_autosave_21_12_2025_18_00.sla.3551",
     "projects/tabletop/MOSAIC Strict/MOSAIC Playbooks/Dark Fantasy Playbook for MOSAIC Strict/Dark Fantasy Character Playbook for Mosaic Strict Trifold_autosave_21_12_2025_17_50.sla",
-    "private/Print and Play.md",
-    "private/Untitled 1.md",
-    "daily/2025-12-17.md",
-    "daily/2025-12-16.md",
-    "daily/2025-12-14.md",
-    "TTRPGs/hexmaps/Altius/Hex 5,1.md",
-    "TTRPGs/hexmaps/Altius/The Keep.md",
-    "TTRPGs/hexmaps/Altius/Hex 5,3.md",
-    "TTRPGs/hexmaps/The Keep.md",
-    "hexmaps/New Hexmap 1765756792963/The Keep.md",
-    "hexmaps/New Hexmap 1765756792963/Hex 13,-2.md",
-    "private/Archive/Process and Morality.md",
-    "projects/develoment/Hexcrawl Plugin Development.md",
-    "projects/develoment/Development To-Dos.md",
-    "projects/develoment/Overlord Development.md",
-    "private/projects/exfil-traitor/exfil-traitor.md",
-    "projects/tabletop/Spelldivers/Arcane Catastrophes.md",
-    "projects/tabletop/Spelldivers/Spell Glyphs.md",
     "projects/tabletop/Trespasser/Trespasser Solo Design/Procedures.canvas",
     "private/Snapchat-744110138.jpg",
     "private/unnamed.jpg",
