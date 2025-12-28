@@ -1,6 +1,7 @@
 [
   "obsidian-kanban",
   "obsidian-custom-file-extensions-plugin",
-  "obsidian-git",
-  "obsidian-vault-changelog"
+  "obsidian-vault-changelog",
+  "hexcrawl-plugin",
+  "obsidian-hexcrawl-plugin"
 ]
