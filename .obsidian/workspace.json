@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/templates/templates.hugo.daily.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "templates.hugo.daily"
-            }
-          },
-          {
-            "id": "28e594482ae9a188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "daily/2025-12-28.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "2025-12-28"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +171,16 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28e594482ae9a188",
+  "active": "878f26c40b95be22",
   "lastOpenFiles": [
-    "daily/2025-12-21.md",
+    "daily.gagelara.com.md",
     "daily/2025-12-28.md",
+    "system/templates/templates.hugo.daily.md",
+    "daily/2025-12-21.md",
     "daily/2025-12-27.md",
     "daily/2025-12-26.md",
     "daily/2025-12-25.md",
@@ -215,8 +203,6 @@
     "daily/2025-12-07.md",
     "daily/2025-12-06.md",
     "daily/2025-12-04.md",
-    "daily/2025-11-30.md",
-    "daily/2025-11-29.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Trespasser Rulebook v2.0.3.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Commoner Tracker v2.0.3.pdf",
