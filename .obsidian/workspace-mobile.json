@@ -11,12 +11,14 @@
             "id": "949540e33744086b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf"
+                "file": "private/Inbox.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Trespasser v2.1 - Rulebook"
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           }
         ]
@@ -155,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -165,11 +168,12 @@
   },
   "active": "949540e33744086b",
   "lastOpenFiles": [
+    "private/Untitled.md",
     "daily/2025-12-29.md",
+    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Table Reference.pdf",
     "system/assets/Quickbase_appbuilder_learningpath.pdf",
     "daily/2025-12-28.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "daily/2025-12-26.md",
     "private/Bingo.md",
     "private/IMG_20251226_130815.png",
