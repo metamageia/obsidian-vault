@@ -11,12 +11,14 @@
             "id": "949540e33744086b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf"
+                "file": "daily/2025-12-29.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Trespasser v2.1 - Rulebook"
+              "icon": "lucide-file",
+              "title": "2025-12-29"
             }
           }
         ]
@@ -155,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -165,11 +168,14 @@
   },
   "active": "949540e33744086b",
   "lastOpenFiles": [
+    "private/Inbox.md",
+    "private/Untitled.md",
+    "system/changelog.sync-conflict-20251229-155632-FONRABV.md",
     "daily/2025-12-29.md",
+    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Table Reference.pdf",
     "system/assets/Quickbase_appbuilder_learningpath.pdf",
     "daily/2025-12-28.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "daily/2025-12-26.md",
     "private/Bingo.md",
     "private/IMG_20251226_130815.png",
@@ -179,7 +185,6 @@
     "private/clippings",
     "daily/2025-12-23.md",
     "daily/2025-12-22.md",
-    "private/Inbox.md",
     "daily/2025-12-21.md",
     "daily/2025-12-20.md",
     "private/Untitled 1.md",
@@ -198,7 +203,6 @@
     "daily/2025-12-07.md",
     "Clippings/Synoptic Gospels - Wikipedia.md",
     "Clippings",
-    "daily/2025-12-04.md",
     "private/files/TTRPGs/trespasser/Trespasser Rulebook v2.0.3.pdf",
     "private/trespasser/Trespasser Rulebook v2.0.3.pdf",
     "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/fuzzel.png",

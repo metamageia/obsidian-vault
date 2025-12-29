@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Untitled.md",
+                "file": "daily/2025-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-12-29"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CORS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +178,11 @@
   },
   "active": "1625b4c91981ea4f",
   "lastOpenFiles": [
-    "daily/2025-12-29.md",
     "private/Untitled.md",
+    "daily/2025-12-29.md",
+    "private/Used my music.md",
+    "metamageia/post/02 - The Cloud Resume Challenge/index.md",
+    "system/changelog.sync-conflict-20251229-155632-FONRABV.md",
     "system/assets/Quickbase_appbuilder_learningpath.pdf",
     "daily/2025-12-28.md",
     "daily.gagelara.com.md",
@@ -202,9 +205,6 @@
     "daily/2025-12-13.md",
     "daily/2025-12-12.md",
     "daily/2025-12-11.md",
-    "daily/2025-12-10.md",
-    "daily/2025-12-02.md",
-    "daily/2025-12-07.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Trespasser Rulebook v2.0.3.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser 2.0.3/Commoner Tracker v2.0.3.pdf",
