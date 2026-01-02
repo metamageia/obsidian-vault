@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-12-29.md",
-                "mode": "source",
+                "file": "daily/2026-01-01.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-29"
+              "title": "2026-01-01"
             }
           }
         ]
@@ -157,7 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -168,10 +167,15 @@
   },
   "active": "949540e33744086b",
   "lastOpenFiles": [
-    "private/Inbox.md",
+    "system/templates/templates.hugo.daily.md",
+    "daily/2026-01-01.md",
     "private/Untitled.md",
-    "system/changelog.sync-conflict-20251229-155632-FONRABV.md",
+    "daily/2025-12-31.md",
+    "private/Inbox.md",
+    "daily/2025-12-30.md",
     "daily/2025-12-29.md",
+    "private/Arbys.md",
+    "system/changelog.sync-conflict-20251229-155632-FONRABV.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Table Reference.pdf",
     "system/assets/Quickbase_appbuilder_learningpath.pdf",
@@ -197,11 +201,6 @@
     "daily/2025-12-15.md",
     "daily/2025-12-14.md",
     "daily/2025-12-13.md",
-    "daily/2025-12-12.md",
-    "private/Print and Play.md",
-    "daily/2025-12-11.md",
-    "daily/2025-12-07.md",
-    "Clippings/Synoptic Gospels - Wikipedia.md",
     "Clippings",
     "private/files/TTRPGs/trespasser/Trespasser Rulebook v2.0.3.pdf",
     "private/trespasser/Trespasser Rulebook v2.0.3.pdf",
