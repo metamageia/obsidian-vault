@@ -13,12 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-01-02.md",
+                "file": "daily/2026-01-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "2026-01-03"
+            }
+          },
+          {
+            "id": "5d63546632b46cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/2.1.1 Statblocks Updated.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1.1 Statblocks Updated"
+            }
+          },
+          {
+            "id": "3cbe5cfaf51da0b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Rulebook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Trespasser v2.1.1 - Rulebook"
             }
           }
         ]
@@ -53,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CORS",
+                "query": "gm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,9 +180,19 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-06-24"
             }
+          },
+          {
+            "id": "3d5da5a5a40974aa",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -170,27 +206,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "1625b4c91981ea4f",
   "lastOpenFiles": [
+    "private/2.1.1 Statblocks Updated.md",
+    "daily/2026-01-02.md",
+    "daily/2026-01-03.md",
+    "Gamemaster Ideas.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Rulebook.pdf",
+    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Echoing Cistern.pdf",
+    "private/Trespasser v2.1.1 - Rulebook-315-386.pdf",
+    "Session Preparation.md",
+    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Update Notes (2.1 + 2.1.1).pdf",
+    "Eight Steps of the Lazy Dungeon Master.md",
+    "private/Inbox.md",
     "daily/2026-01-01.md",
     "system/templates/template.review.daily.md",
-    "daily/2026-01-02.md",
     "system/templates/templates.hugo.daily.md",
     "daily/2025-12-31.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Commoner Record.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Echoing Cistern.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Character Record.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Haven Record.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Table Reference.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Update Notes (2.1 + 2.1.1).pdf",
-    "private/Inbox.md",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser v1.21/Two More Themes - Wilderness & Wrath.pdf",
     "private/files/TTRPGs/Trespasser/Archive/Trespasser v1.21/Two More Themes - Storms & Swiftness.pdf",
-    "private/files/TTRPGs/Trespasser/Archive/Trespasser v1.21/Trespasser Stronghold Sheet 1.2.pdf",
     "daily/2025-12-29.md",
     "private/Untitled.md",
     "private/Arbys.md",
@@ -206,10 +248,6 @@
     "daily/2025-12-25.md",
     "daily/2025-12-24.md",
     "daily/2025-12-23.md",
-    "daily/2025-12-22.md",
-    "daily/2025-12-16.md",
-    "daily/2025-12-20.md",
-    "daily/2025-12-19.md",
     "private/IMG_20251226_130815.png",
     "projects/tabletop/Trespasser/Trespasser Solo Design/Procedures.canvas",
     "private/Snapchat-744110138.jpg",
