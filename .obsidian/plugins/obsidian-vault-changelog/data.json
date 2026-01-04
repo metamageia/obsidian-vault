@@ -4,6 +4,7 @@
   "datetimeFormat": "YYYY-MM-DD[T]HHmm",
   "maxRecentFiles": 150,
   "excludedFolders": [
-    "private/"
+    "private/",
+    "CLAUDE.md"
   ]
 }
