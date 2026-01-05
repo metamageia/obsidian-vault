@@ -1,5 +1,5 @@
 {
   "folder": "daily",
-  "autorun": true,
+  "autorun": false,
   "template": "system/templates/templates.hugo.daily"
 }

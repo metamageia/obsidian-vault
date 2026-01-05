@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3b948f17cb35c6",
+        "id": "98a6f57938530419",
         "type": "tabs",
         "children": [
           {
-            "id": "89f85c2c01799e2f",
+            "id": "b6f43ca6a89e3b0e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/claude/people/terry-clark.md",
+                "file": "private/Home Dashboard.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "terry-clark"
+              "title": "Home Dashboard"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "claude.",
+                "query": "claude.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 234.5
   },
   "right": {
     "id": "2eca86bb40ec6e20",
@@ -170,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,47 +184,47 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "89f85c2c01799e2f",
+  "active": "b6f43ca6a89e3b0e",
   "lastOpenFiles": [
-    "private/Inbox.md",
-    "private/2.1.1 Statblocks Updated.md",
+    "private/claude/daily/2026-01-05.md",
+    "private/Home Dashboard.md",
+    "private/claude/inbox/To Claude.md",
+    "daily/2026-01-04.md",
+    "private/Home Dashboard.md.tmp.245677.1767605899832",
+    "private/claude/weekly/2026-W01.md.tmp.245677.1767605883522",
+    "private/claude/weekly/2026-W01.md.tmp.245677.1767605877280",
+    "private/claude/daily/2026-01-05.md.tmp.245677.1767605851807",
+    "private/claude/weekly/2026-W01.md.tmp.213451.1767584714601",
+    "private/claude/daily/2026-01-04.md.tmp.213451.1767584689896",
+    "private/Home Dashboard.md.tmp.213451.1767584659440",
+    "private/Home Dashboard.md.tmp.213451.1767584654781",
+    "private/personal/calendar/(Every Year on 12-31) New Year's Eve.md",
+    "private/personal/calendar/(Every Year on 12-31) New Year's Eve.md.tmp.213451.1767584644877",
+    "private/personal/calendar/(Every Year on 10-31) Halloween.md",
+    "private/personal/calendar/(Every Year on 10-31) Halloween.md.tmp.213451.1767584644850",
+    "private/personal/calendar/(Every Year on 12-24) Christmas Eve.md",
+    "private/personal/calendar/(Every Year on 12-25) Christmas.md",
+    "private/personal/calendar/(Every Year on 07-04) Independence Day.md",
+    "private/personal/calendar/(Every Year on 01-01) New Year's Day.md",
+    "private/personal/calendar/(Every Year on 02-14) Valentine's Day.md",
+    "private/personal/calendar/(Every Year on 01-14) Elis's Birthday.md",
+    "private/claude/weekly/2026-W01.md",
+    "private/Dragonfall Abbey/Session Notes.md",
+    "private/claude/tensions.md",
+    "private/claude/inbox/Update - Nixos Timer.md",
+    "CLAUDE.md",
+    "private/claude/scratch/_about.md",
+    "system/changelog.md",
+    "private/claude/prompt-patterns.md",
+    "private/claude/open-threads.md",
+    "private/claude/decision-log.md",
+    "private/claude/README.md",
     "private/Untitled.md",
-    "private/personal/calendar/(Every Year on 12-21) Josh's Birthday.md",
-    "private/personal/calendar/(Every Year on 07-11) Miranda's Birthday.md.tmp.157931.1767553474773",
-    "private/personal/calendar/(Every Year on 12-21) Josh's Birthday.md.tmp.157931.1767553474366",
-    "private/personal/calendar/(Every Year on 01-11) Elis's Birthday.md.tmp.157931.1767553474009",
-    "private/personal/calendar/(Every Year on 12-04) Terry's Birthday.md.tmp.157931.1767553473672",
-    "private/personal/calendar/(Every Year on 06-14) Zeb's Birthday.md.tmp.157931.1767553473327",
-    "private/personal/calendar/(Every Year on 04-16) Aaron's Birthday.md.tmp.157931.1767553473036",
-    "private/personal/calendar/(Every Year on 03-17) Hannah's Birthday.md.tmp.157931.1767553472770",
-    "private/personal/calendar/(Every Year on 10-27) Mom's Birthday.md.tmp.157931.1767553472518",
-    "private/personal/calendar/(Every Year on 11-13) Rachel's Sobriety Anniversary.md.tmp.157931.1767553472282",
-    "private/personal/calendar/(Every Year on 03-16) Rachel's Birthday.md.tmp.157931.1767553472070",
-    "private/personal/calendar/2026-01-11 Elis's Birthday.md",
     "private/personal/calendar/(Every Year on 01-11) Elis's Birthday.md",
-    "private/personal/calendar/(Every F) Work.md",
-    "private/personal/calendar/(Every Year on 07-11) Miranda's Birthday.md",
-    "private/personal/calendar/(Every Year on 12-04) Terry's Birthday.md",
-    "private/personal/calendar/(Every Year on 06-14) Zeb's Birthday.md",
-    "private/personal/calendar/(Every Year on 04-16) Aaron's Birthday.md",
-    "private/personal/calendar/(Every Year on 03-17) Hannah's Birthday.md",
-    "private/personal/calendar/(Every Year on 10-27) Mom's Birthday.md",
-    "private/personal/calendar/(Every Year on 11-13) Rachel's Sobriety Anniversary.md",
-    "private/personal/calendar/(Every Year on 03-16) Rachel's Birthday.md",
-    "private/personal/calendar/(Every Year on 08-02) Gage's Birthday.md",
-    "private/claude/people/elis-thompson.md",
-    "private/claude/people/bekah-clark.md",
-    "private/claude/people/miranda-ahrens.md",
-    "private/claude/people/clara-leet.md",
-    "private/claude/people/josh-frost.md",
-    "private/claude/people/terry-clark.md",
-    "private/claude/people/zeb-ahrens.md",
-    "private/claude/people/aaron-westerman.md",
-    "private/claude/people/hannah-lara.md",
-    "private/claude/people/rhonda-lara.md",
     "private/personal/Rachel's 2026 Bingo.png",
     "private/Untitled.canvas",
     "private/Dragonfall Abbey/Voidmaw.png",
