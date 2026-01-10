@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "links": "multitext",
-    "meditation": "checkbox"
+    "meditation": "checkbox",
+    "inbox zero": "checkbox",
+    "daily note": "checkbox"
   }
 }

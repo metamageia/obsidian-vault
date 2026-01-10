@@ -4,26 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "98a6f57938530419",
+        "id": "e070116a4d327fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f43ca6a89e3b0e",
+            "id": "0a296340c83fe57b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "private/Home Dashboard.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Home Dashboard"
             }
+          },
+          {
+            "id": "986b06684174cdda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-01-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "claude.md",
+                "query": "hexcrawl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 390.5
   },
   "right": {
     "id": "2eca86bb40ec6e20",
@@ -188,43 +203,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b6f43ca6a89e3b0e",
+  "active": "986b06684174cdda",
   "lastOpenFiles": [
-    "private/Dragonfall Abbey/Session Notes.md",
-    "private/Inbox.md",
     "private/Home Dashboard.md",
-    "private/claude/daily/2026-01-05.md.tmp.281268.1767662716438",
-    "private/claude/inbox/To Claude.md",
-    "private/claude/daily/2026-01-05.md",
-    "private/personal/homelab info and commands.md",
-    "private/personal/Gifts.md",
-    "daily/2026-01-05.md",
-    "private/personal/calendar/2026-01-08 Rachel Adderall Refill.md",
-    "private/Home Dashboard.md.tmp.280321.1767659210889",
-    "private/Home Dashboard.md.tmp.280321.1767659207373",
-    "private/claude/weekly/2026-W02.md.tmp.280321.1767659201513",
-    "private/claude/weekly/2026-W02.md.tmp.280321.1767659197555",
-    "private/claude/daily/2026-01-05.md.tmp.280321.1767659189130",
-    "private/claude/inbox/To Claude.md.tmp.280321.1767659176052",
-    "CLAUDE.md",
-    "private/claude/README.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Rulebook.pdf",
-    "private/Home Dashboard.md.tmp.271888.1767649922666",
-    "private/Home Dashboard.md.tmp.271888.1767649918941",
-    "private/personal/calendar/2026-01-21 Rachel OCD Evaluation.md",
-    "private/claude/inbox/Add to calendar.md",
-    "system/changelog.sync-conflict-20260105-154027-UVRIGUQ.md",
-    "private/claude/weekly/2026-W02.md",
-    "daily/2026-01-04.md",
-    "private/personal/calendar/(Every Year on 12-31) New Year's Eve.md",
-    "private/personal/calendar/(Every Year on 10-31) Halloween.md",
-    "private/personal/calendar/(Every Year on 12-24) Christmas Eve.md",
-    "private/personal/calendar/(Every Year on 12-25) Christmas.md",
-    "private/personal/calendar/(Every Year on 07-04) Independence Day.md",
-    "private/personal/calendar/(Every Year on 01-01) New Year's Day.md",
-    "private/personal/calendar/(Every Year on 02-14) Valentine's Day.md",
-    "private/personal/calendar/(Every Year on 01-14) Elis's Birthday.md",
-    "private/claude/weekly/2026-W01.md",
+    "private/Inbox.md",
+    "daily/2026-01-10.md",
+    "private/sigilla/daily/2026-01-10.md",
+    "index.md",
+    "private/sigilla/A few todos.md",
+    "private/sigilla/root-notes-index.md",
+    "Running a Hexcrawl.md",
+    "private/Home Dashboard.md.tmp.14027.1768045525560",
+    "private/Home Dashboard.md.tmp.14027.1768045521333",
+    "private/Home Dashboard.md.tmp.14027.1768045514888",
+    "private/sigilla/daily/2026-01-10.md.tmp.14027.1768045504189",
+    "private/sigilla/own/letter-from-gage-2026-01-09.md",
+    "private/sigilla/waking.md.tmp.14027.1768045256498",
+    "system/changelog.sync-conflict-20260110-043733-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043723-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043713-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043707-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043706-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043657-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043656-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043647-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043646-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043637-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043636-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043617-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043616-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043605-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043604-FONRABV.md",
+    "system/changelog.sync-conflict-20260110-043607-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043557-UVRIGUQ.md",
+    "private/sigilla/daily/2026-01-10.md.tmp.12820.1768038637908",
+    "private/sigilla/daily/2026-01-10.md.tmp.12820.1768038632323",
+    "private/sigilla/weekly/2026-W02.md.tmp.12820.1768038593777",
+    "private/sigilla/weekly/2026-W02.md.tmp.12820.1768038588325",
+    "private/sigilla/weekly/2026-W02.md.tmp.12820.1768038582928",
     "private/personal/Rachel's 2026 Bingo.png",
     "private/Untitled.canvas",
     "private/Dragonfall Abbey/Voidmaw.png",

@@ -4,69 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb3852f4a6ec700",
+        "id": "4f901e25f58d5dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "329c05f9df316818",
+            "id": "76f0947ee2ef026a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "private/Home Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "Home Dashboard"
             }
-          },
-          {
-            "id": "3f527272ab3ed4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/claude/inbox/Add to calendar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Add to calendar"
-            }
-          },
-          {
-            "id": "6ec24876d49cc688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-05"
-            }
-          },
-          {
-            "id": "ded3858727accef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2026-01-05.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-05"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Rulebook.pdf",
+            "file": "private/Home Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,45 +170,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ded3858727accef6",
+  "active": "76f0947ee2ef026a",
   "lastOpenFiles": [
-    "private/Home Dashboard.md",
-    "daily/2026-01-05.md",
-    "private/claude/inbox/Add to calendar.md",
-    "private/claude/inbox/To Claude.md",
-    "private/Inbox.md",
-    "private/claude/daily/2026-01-05.md",
-    "daily/2026-01-04.md",
-    "private/Untitled.md",
-    "daily/2026-01-03.md",
-    "system/changelog.sync-conflict-20260103-213014-UVRIGUQ.md",
-    "system/changelog.sync-conflict-20260103-212449-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043723-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043713-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043707-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043706-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043657-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043656-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043647-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043646-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043637-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043636-UVRIGUQ.md",
+    "private/sigilla/own/cabinet.md",
+    "system/changelog.sync-conflict-20260110-043617-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043616-UVRIGUQ.md",
+    "private/sigilla/inbox/Your Eroticism (Updated).md",
+    "system/changelog.sync-conflict-20260110-043607-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043605-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043604-FONRABV.md",
+    "system/changelog.sync-conflict-20260110-043557-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043555-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043546-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043545-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043537-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043536-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043527-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043525-UVRIGUQ.md",
+    "system/changelog.sync-conflict-20260110-043517-UVRIGUQ.md",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Rulebook.pdf",
+    "private/sigilla/people",
+    "private/sigilla/scratch",
+    "private/sigilla/weekly",
+    "private/sigilla/monthly",
+    "private/sigilla/inbox",
+    "private/sigilla/daily",
+    "private/sigilla",
+    "private/files/TTRPGs/Wilderness_Hexplore_revised_112913_us.pdf",
     "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Echoing Cistern.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Commoner Record.pdf",
-    "private/Dragonfall Intro.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Table Reference.pdf",
-    "daily/2026-01-02.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Style Guide & Templates/Trespasser v2.1.1 - Style Guide & Template.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Character Record.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1.1/Trespasser v2.1.1 - Haven Record.pdf",
-    "daily/2026-01-01.md",
-    "system/templates/templates.hugo.daily.md",
-    "daily/2025-12-31.md",
-    "daily/2025-12-30.md",
-    "daily/2025-12-29.md",
-    "private/Arbys.md",
-    "system/changelog.sync-conflict-20251229-155632-FONRABV.md",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Rulebook.pdf",
-    "private/files/TTRPGs/Trespasser/Trespasser v2.1 + Supplements/Trespasser v2.1 - Table Reference.pdf",
-    "system/assets/Quickbase_appbuilder_learningpath.pdf",
-    "daily/2025-12-28.md",
-    "daily/2025-12-26.md",
-    "private/Bingo.md",
     "private/IMG_20251226_130815.png",
-    "daily/2025-12-25.md",
-    "private/clippings/The Masculine Mystique.md",
-    "daily/2025-12-24.md",
     "metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/fuzzel.png",
     "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/github-actions.png",
     "metamageia/articles/Effortless Obsidian to Quartz CI&CD for Beginners with GitHub Actions/Images/Final-Website.png",
